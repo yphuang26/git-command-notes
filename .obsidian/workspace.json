@@ -157,12 +157,14 @@
   },
   "active": "790a9256237099b3",
   "lastOpenFiles": [
+    "Git Useful Tools.md",
+    "README.md",
+    "Git Cherry-Pick.md",
     "Git Merge & Rebase.md",
-    "Vault.md",
     "Git Branch.md",
     "Git General.md",
+    "Vault.md",
     "git-command-motes.md",
-    "README.md",
     "Tags"
   ]
 }

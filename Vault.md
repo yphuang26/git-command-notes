@@ -1,3 +1,5 @@
 [[Git General]]
 [[Git Branch]]
 [[Git Merge & Rebase]]
+[[Git Cherry-Pick]]
+[[Git Useful Tools]]
