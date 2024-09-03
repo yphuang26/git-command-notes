@@ -23,6 +23,13 @@ git add .
 git commit -m "Initial commit"
 git push
 ```
+```shell
+# 或使用以下指令推送
+git push --set-upstream origin main
+```
+這個指令會做兩件事:
+- 將本地的 `main` 分支推送到遠程倉庫的 `origin` 倉庫中的 `main` 分支
+- 設置 `main` 分支的上游分支為 `origin/main` ，以後當執行 `git push` 或 `git pull` 時，不再需要手動指定遠程分支
 ## 修改、更新到 GitHub repository
 ---
 - 查詢目前狀態
