@@ -11,9 +11,13 @@ git brnach {new_branch_name} # 在後面加上新分支的名稱(但不會切過
 git branch -m {old_name} {new_name}
 ```
 ### 更新 Repository
-- 從遠端 repository 拉取最新的更改到本地 repository
+- 只同步最新的變更到本地 repository
 ```shell
-git pull
+git fetch
+```
+- 同步變更並清理不存在的遠端分支到本地 repository
+```shell
+git fetch --prune
 ```
 ## 切換分支
 ---

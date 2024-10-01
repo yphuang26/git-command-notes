@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git General.md",
+                "file": "Git Branch.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git General.md",
+                "file": "Git Branch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git General.md",
+                "file": "Git Branch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git General.md"
+                "file": "Git Branch.md"
               }
             }
           }
@@ -157,12 +157,12 @@
   },
   "active": "790a9256237099b3",
   "lastOpenFiles": [
+    "Git Merge & Rebase.md",
+    "Git General.md",
     "Tags",
     "Git Useful Tools.md",
     "Git Cherry-Pick.md",
-    "Git Merge & Rebase.md",
     "Git Branch.md",
-    "Git General.md",
     "README.md",
     "Vault.md",
     "git-command-motes.md"
