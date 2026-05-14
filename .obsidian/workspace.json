@@ -11,12 +11,14 @@
             "id": "790a9256237099b3",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "/"
+                "file": "Git 開發流程.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "git-command-notes"
+              "title": "Git 開發流程"
             }
           }
         ]
@@ -159,6 +161,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -167,8 +170,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f9f155061534bab5",
+  "active": "15b6c4f8fa5fca9a",
   "lastOpenFiles": [
+    "Git 開發流程.md",
+    "Git Merge & Fix Conflicts.md",
+    "Tags",
     "Git Reset.md",
     "README.md",
     "Git Useful Tools.md",
@@ -176,7 +182,6 @@
     "Git Merge & Rebase.md",
     "Git Cherry-Pick.md",
     "Git General.md",
-    "Tags",
     "Vault.md",
     "git-command-motes.md"
   ]
